@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+  ### 使用哪个配置文件
+spring:
+  profiles:
+    active: dev
